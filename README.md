@@ -1,5 +1,7 @@
 # BubbleClock
 
+![Gopher](assets/gohper.png)
+
 A terminal clock that renders the current time as ASCII art using [go-figure](https://github.com/common-nighthawk/go-figure), built with [Bubble Tea](https://github.com/charmbracelet/bubbletea) and [Lip Gloss](https://github.com/charmbracelet/lipgloss).
 
 ## Usage
